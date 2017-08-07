@@ -1,2 +1,2 @@
 # HelloWorld
-This is another edition
+This is the final resolution
