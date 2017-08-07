@@ -1,2 +1,2 @@
 # HelloWorld
-I am editing the read me
+This is the final resolution
